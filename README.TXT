@@ -1,4 +1,4 @@
-Project "figures"
+Project "Lab 1 (figures)"
 Authors: Michael Kölling and David J. Barnes
 
 This project is part of the material for the book
@@ -8,7 +8,7 @@ This project is part of the material for the book
    David J. Barnes and Michael Kölling
    Pearson Education
 
-It is discussed in chapter 1.
+It is discussed in chapter 1. (objects and classes)
 
 This is a very simple project to demonstrate some characteristics of
 objects.
